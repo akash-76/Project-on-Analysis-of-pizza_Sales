@@ -7,8 +7,10 @@ Analysis of pizza sales trends and insights.
 Skills Demonstrated
 Joins: Combining data from multiple tables.
 Subqueries: Nested queries for data filtering.
-Aggregate functions: Using SUM(), COUNT(), AVG() for calculations.
+Aggregate functions: Using SUM(), COUNT(), MIN() for calculations.
+ROUND(): Rounding numerical results for cleaner output.
 GROUP BY for data summarization.
+Order BY for sorting the data.
 
 Data Structure
 The dataset includes tables such as Orders, Pizzas,Pizza types and Order Details to capture sales data.
