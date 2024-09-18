@@ -1,6 +1,4 @@
-![License](https://img.shields.io/badge/License-MIT-blue.svg)
 ![Build Status](https://img.shields.io/badge/Build-Passing-brightgreen?style=flat-square)
-![Version](https://img.shields.io/badge/Version-1.0.0-blue)
 
 This project analyzes pizza sales data using MySQL, with queries ranging from basic to advanced. It showcases SQL techniques such as joins, subqueries, and aggregate functions to answer key business questions. The project includes a PDF with screenshots of queries and their outputs.
 
